@@ -6,5 +6,6 @@ public class ClaseA {
 		System.out.println("Linea2");
 		System.out.println("Linea3");
 		System.out.println("Linea4");
+		System.out.println("Test5");
 	}
 }
